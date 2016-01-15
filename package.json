@@ -1,0 +1,26 @@
+{
+  "name": "makerjs-band-clamp",
+  "version": "1.0.0",
+  "description": "A band clamp for a tube, for Maker.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danmarshall/makerjs-band-clamp.git"
+  },
+  "keywords": [
+    "makerjs"
+  ],
+  "author": "Dan Marshall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/danmarshall/makerjs-band-clamp/issues"
+  },
+  "homepage": "https://github.com/danmarshall/makerjs-band-clamp",
+  "dependencies": {
+    "makerjs": "^0.6.9",
+    "makerjs-half-band-clamp": "^1.0.0"
+  }
+}
